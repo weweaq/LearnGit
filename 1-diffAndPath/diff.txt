@@ -1,0 +1,6 @@
+--- hello.txt	2024-05-25 22:56:02.182494900 +0800
++++ world.txt	2024-05-25 22:55:49.321756100 +0800
+@@ -1,2 +1 @@
+-This is hello file
+-Welcome to diff
++This is world file
